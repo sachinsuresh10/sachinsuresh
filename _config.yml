@@ -1,9 +1,9 @@
 # main text of home
 title: Sachin Suresh
-bio: A Person who travels the world eating noodles
+bio: Data Analyst
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Personal Portfolio
 
 # if it's an external image, update below for true
 # better with square images
@@ -18,8 +18,9 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/images/profile.pdf
 
+domain: https://sachinsuresh10.github.io
 url: https://sachinsuresh10.github.io
 # your url: https://USERNAME.github.io
 
@@ -34,26 +35,21 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+#twitter: mytwitter
+#instagram: myinstagram
+linkedin: sachin-suresh10
+github: sachinsuresh10
+email: sacchinsureesh10@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Sachin Suresh
+    bio: Data Analyst
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    #twitter: johndoe
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -65,7 +61,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
