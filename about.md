@@ -4,42 +4,28 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am Sachin Suresh, a proactive Data Science graduate with a robust Computer Science background and currently pursuing an M.Sc. in Data and Decision Analytics at the University of Southampton. At Quantum Sports Analytics, I am actively contributing to a project developing a hybrid data collection platform for football player analytics, utilizing my expertise in machine learning, data preprocessing, and advanced algorithm implementation. Proficient in Python, R, SQL, and tools like Power BI and Google Analytics, I bring a solid understanding of machine learning libraries such as TensorFlow and Keras, statistical modeling, and database management.Proven ability to analyse complex datasets, develop predictive models, and deliver actionable insights through practical experience and academic projects. The uniqueness of the Analytics and Data Science program lies in its intersection of Engineering, Humanities, Arts, Social Sciences, and Management, setting me up for a continuous journey of learning.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Data Science: Machine learning, Pattern & Trend identification, Probability, and Statistics.</li>
+	<li>Analytics & Visualisation Tools: PowerBI, Microsoft Excel, Google Analytics</li>
+	<li>Languages: Python, R, C, C++, SQL, JavaScript, HTML, CSS.</li>
+	<li>Libraries: Numpy, Pandas, Matplotlib, Seaborn, Keras, Tensorflow, ComputerVision, ggplot2, dplyr, tidyr, randomForest.</li>
+	<li>Databases: MySQL, MongoDB, SQL Server</li>
+	<li>Cloud: Salesforce Commerce Cloud(SFCC), AWS(EC2, Sagemaker, S3).</li>
+
 </ul>
 
-<h2>Projects</h2>
+<h2>Education</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><strong>University of Southampton, Southampton, United Kingdom</strong><br>
+	MSc in Data and Decision Analytics<br>
+	<i>Sep 2023 - Present</i></li>
+	<li><strong>Dr. Ambedkar Institute of Technology, Bangalore, India</strong><br>
+	Bachelor of Engineering in Computer Science & Engineering<br>
+	CGPA: 8.74/10<br>
+	<i>Jul 2017 - Aug 2021</i></li>
 </ul>
