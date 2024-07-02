@@ -18,7 +18,7 @@ dark-theme: false
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: assets/images/Sachin Suresh.pdf
+resume-url: assets/Sachin Suresh.pdf
 
 domain: https://sachinsuresh10.github.io
 url: https://sachinsuresh10.github.io
