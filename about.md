@@ -9,12 +9,13 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Data Science: Machine learning, Pattern & Trend identification, Probability, and Statistics.</li>
-	<li>Analytics & Visualisation Tools: PowerBI, Microsoft Excel, Google Analytics</li>
-	<li>Languages: Python, R, C, C++, SQL, JavaScript, HTML, CSS.</li>
-	<li>Libraries: Numpy, Pandas, Matplotlib, Seaborn, Keras, Tensorflow, ComputerVision, ggplot2, dplyr, tidyr, randomForest.</li>
-	<li>Databases: MySQL, MongoDB, SQL Server</li>
-	<li>Cloud: Salesforce Commerce Cloud(SFCC), AWS(EC2, Sagemaker, S3).</li>
+	<li>Data Science: Machine learning, Computer Vision, Pattern & Trend identification, Probability, and Statistics.</li>
+<li>Analytics & Visualisation Tools: PowerBI, Advanced Microsoft Excel, Tableau, Google Analytics.</li>
+<li>Languages: Python, R, C, C++, SQL, JavaScript, HTML, CSS.</li>
+<li>Libraries: Numpy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow, OpenCV, Supervision, tidyverse, randomForest.</li>
+<li>Databases: MySQL, SQL Server, MongoDB.</li>
+<li>Cloud: Salesforce Commerce Cloud (SFCC), AWS (EC2, Sagemaker, S3).</li>
+
 
 </ul>
 
